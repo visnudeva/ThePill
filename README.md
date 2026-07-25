@@ -1,8 +1,5 @@
-# The Pill
 
-<p align="center">
-  <img src="media/screenshot.jpg" alt="The Pill dock on GNOME" width="720">
-</p>
+# <img src="https://github.com/visnudeva/ThePill/blob/main/docs/assets/logo.png?raw=true" width="100"> The Pill
 
 <table>
   <tr>
@@ -11,6 +8,9 @@
       Autohides at the bottom of the screen, reveals on hover, and stays out of the way<br>
       with tide-style running indicators and a clean, centered icon strip.<br>
       No preferences window — behavior is locked to a deliberate minimal defaults.
+    </td>
+      <td>
+      <img src="https://github.com/visnudeva/ThePill/blob/main/docs/assets/Screenshot.png?raw=true" width="600">
     </td>
   </tr>
 </table>
