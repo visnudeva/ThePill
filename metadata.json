@@ -1,0 +1,11 @@
+{
+  "uuid": "ThePill@visnudeva.github.io",
+  "name": "The Pill",
+  "description": "A minimal dock — invisible until your windows need it.",
+  "version": 1,
+  "shell-version": ["48", "49", "50"],
+  "url": "https://github.com/visnudeva/ThePill",
+  "settings-schema": "org.gnome.shell.extensions.thepill",
+  "stylesheet": "stylesheet.css",
+  "original-author": "micxgx@gmail.com"
+}
